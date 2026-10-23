@@ -1,5 +1,3 @@
----- Macaulay2 file for Dihedral sign patterns in M_{0,n} ----
-
 --INSTRUCTIONS
 --n and R should be defined globally before using any function from Part 1 and 2
 --Sign patterns should be inputed as Hash Tables with keys being ALL 2-subsets of {1..n} and values being 1 or -1
