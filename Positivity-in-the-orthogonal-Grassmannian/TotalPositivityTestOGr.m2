@@ -1,5 +1,3 @@
----- Macaulay2 file for Totally Positive Skew-Symmetric Matrices ----
-
 needsPackage "WeylGroups";
 needsPackage "SpechtModule";
 needsPackage "Matroids";
