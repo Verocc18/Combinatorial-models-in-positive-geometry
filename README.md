@@ -7,7 +7,7 @@ Some of this code is also available and documented on MathRepo or Zenodo as part
 ## Related documentation
 
 
-- The code from **Chapter 2: Beyond associahdera and moduli of points** is also available in this [MathRepo website](https://mathrepo.mis.mpg.de/DihedralSignsM0n/index.html).
+- The code from **Chapter 2: Beyond associahedra and moduli of points** is also available in this [MathRepo website](https://mathrepo.mis.mpg.de/DihedralSignsM0n/index.html).
 
 - Part of the code from **Chapter 3: Toric varieties, embedded polytopes and u-relations** is available in the documentation for the Julia package `PositiveChartsToricVarieties`, see [Zenodo website](https://zenodo.org/records/20757633).
 
