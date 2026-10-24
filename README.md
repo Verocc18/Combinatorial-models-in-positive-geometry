@@ -6,30 +6,14 @@ Some of this code is also available and documented on MathRepo or Zenodo as part
 
 ## Related documentation
 
-> [!NOTE]
-> **Dihedral sign patterns in $\mathcal{M}_{0,n}$**
->
-> Macaulay2 code and documentation for reproducing computations and examples from the paper.
->
-> [View on MathRepo →](https://mathrepo.mis.mpg.de/DihedralSignsM0n/index.html)
 
-> [!NOTE]
-> **Totally positive skew-symmetric matrices**
->
-> Macaulay2 code and documentation for reproducing computations and examples from the paper.
->
-> [View on MathRepo →](https://mathrepo.mis.mpg.de/PositiveSkewMatrices/index.html)
+- The code from **Chapter 2: Beyond associahdera and moduli of points** is also available in this [MathRepo website](https://mathrepo.mis.mpg.de/DihedralSignsM0n/index.html).
 
-> [!NOTE]
-> **Positive charts of toric varieties**
->
-> Supplementary files and documentation for the Julia package `PositiveChartsToricVarieties`, including examples from the paper.
->
-> [View on Zenodo →](https://zenodo.org/records/20757633)
+- Part of the code from **Chapter 3: Toric varieties, embedded polytopes and u-relations** is available in the documentation for the Julia package `PositiveChartsToricVarieties`, see [Zenodo website](https://zenodo.org/records/20757633).
 
-> [!NOTE]
-> **Related code for Section 4.2.3**
->
-> Code relevant to Section 4.2.3 of this thesis also appeared in the PhD thesis of Joris Koefler. We do not include this code in this repository. 
->
-> [View on Zenodo →](https://zenodo.org/records/20735222)
+- The code from **Chapter 4: Positivity in the Orthogonal Grassmannian** is also available in this [MathRepo website](https://mathrepo.mis.mpg.de/PositiveSkewMatrices/index.html). 
+
+
+
+>[!NOTE]
+> Code relevant to Section 4.2.3 of this thesis also appeared in the PhD thesis of Joris Koefler and is available in this [Zenodo website](https://zenodo.org/records/20735222). We do not include this code in this repository. 
