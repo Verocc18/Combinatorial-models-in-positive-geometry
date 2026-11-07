@@ -1,5 +1,5 @@
 --Computational proof of inconsistent sign patterns
---Run function allConsistentSignPatterns from DihedralSignPatternsM0n.m2 first
+--Run function allConsistentSignPatterns from DihedralSignPatterns.m2 first
 
 --Octagon
 n = 8;
